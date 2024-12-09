@@ -1,0 +1,16 @@
+{
+  "name": "net.narazaka.vrchat.texture-inventory",
+  "version": "0.1.0",
+  "displayName": "Texture Inventory",
+  "description": "Store the textures in the world.",
+  "author": {
+    "name": "Narazaka",
+    "url": "https://github.com/Narazaka"
+  },
+  "license": "Zlib",
+  "type": "tool",
+  "url" : "https://github.com/Narazaka/TextureInventory.git",
+  "vpmDependencies": {
+    "com.vrchat.worlds": ">=3.2.0"
+  }
+}
